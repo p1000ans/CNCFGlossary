@@ -4,8 +4,6 @@ status: Completed
 category: technology
 tags: ["architecture", "client", "server",""]
 ---
-# Ce que c’est
-
 Dans une architecture client-serveur, la logique (ou le code) qui constitue une application est séparée en deux composants minimum :
 - un client qui demande que le travail soit effectué (par exemple, l'application web Gmail exécutée dans votre navigateur web)
 - un ou plusieurs serveurs qui satisfont cette demande (par exemple, le service "Envoyer un courrier électronique" exécuté sur les ordinateurs de Google dans le Cloud).
